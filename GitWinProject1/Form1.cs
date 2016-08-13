@@ -15,7 +15,8 @@ namespace GitWinProject1
         public Form1()
         {
             InitializeComponent();
-            label1.Text = "Helo World.";
+            label1.Text = "Helo World Wall.";
+            label2.Text = "Test1";
         }
     }
 }
